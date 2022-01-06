@@ -58,7 +58,7 @@ void process() {
 			break;
 		}
 
-		if(++cnt > 3 * n) {
+		if(++cnt > 4 * n) {
 			cout << "NO\n";
 			break;
 		}
